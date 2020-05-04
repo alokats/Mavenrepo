@@ -4,4 +4,3 @@
 <h2> Start working on project </h2>
 <h2> Welcome </h2>
 <h2> Deploying to container using ansible playbook  </h2>
-<h2> Modified </h2>
